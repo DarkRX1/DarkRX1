@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/DarkRX.gif" width="340" alt="DarkRX">
+<img src="./assets/DarkRX.gif" width="420" alt="DarkRX">
 
 <br>
 
