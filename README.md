@@ -73,7 +73,7 @@ It started as a small experiment and has grown alongside what I've learned.
 
 ## Fieldnotes
 
-I document things I learn from **labs, research, experiments, and building**.
+I document things I learn from **labs, research, experiments, tooling, and building**.
 
 [**TryHackMe**](https://tryhackme.com/p/DarkRX01) ·
 [**Medium**](https://medium.com/@darkrx001) ·
@@ -81,12 +81,23 @@ I document things I learn from **labs, research, experiments, and building**.
 
 <br>
 
----
+## Current Focus
 
-<div align="center">
+```text
+Cybersecurity
+├── Network Security
+├── Web Security
+├── Protocols
+└── Security Research
 
-### Build it. Test it. Measure it. Improve it.
+Systems
+├── Rust
+├── Linux
+├── Networking
+└── Performance
 
-`Security` · `Systems` · `Software` · `Always Learning`
-
-</div>
+Learning
+├── Build
+├── Test
+├── Break assumptions
+└── Improve
