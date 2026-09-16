@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/DarkRX.gif" width="340" alt="DarkRX">
-
-<br>
+<img src="./assets/DarkRX.gif" width="340" alt="DarkRX animated logo">
 
 # DarkRX
 
@@ -12,14 +10,20 @@
 
 <br>
 
+<a href="https://www.youtube.com/@DarkRX001">
+  <img src="https://img.shields.io/badge/YouTube-DarkRX001-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
 <a href="https://tryhackme.com/p/DarkRX01">
-  <img src="https://img.shields.io/badge/TryHackMe-DarkRX01-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
+  <img src="https://img.shields.io/badge/TryHackMe-DarkRX01-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+</a>
+<a href="https://www.yeswehack.com/">
+  <img src="https://img.shields.io/badge/YesWeHack-Bug_Bounty-EA1D2C?style=for-the-badge" alt="YesWeHack">
 </a>
 <a href="https://medium.com/@darkrx001">
-  <img src="https://img.shields.io/badge/Medium-Fieldnotes-000000?style=for-the-badge&logo=medium&logoColor=white">
+  <img src="https://img.shields.io/badge/Medium-Fieldnotes-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
 <a href="https://ko-fi.com/darkrx">
-  <img src="https://img.shields.io/badge/Ko--fi-DarkRX-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white">
+  <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi">
 </a>
 
 </div>
@@ -28,13 +32,13 @@
 
 ## `$ whoami`
 
-I'm **DarkRX**, a cybersecurity student and developer interested in understanding what happens beneath the surface of the systems we use.
+I'm **DarkRX**, a cybersecurity student and developer interested in understanding how systems actually work beneath the surface.
 
-I spend most of my time around **security, networking, Linux, and systems programming** — learning by building things, testing them against reality, and figuring out where my assumptions were wrong.
+My interests sit between **cybersecurity, networking, Linux, systems programming, and software engineering**. I learn best by building things, testing them against real systems, finding where my assumptions were wrong, and improving from there.
 
-I don't just want to know how to run a tool.
+I don't just want to know how to use security tools. I want to understand the protocols, code, operating systems, networks, and engineering decisions underneath them.
 
-I want to understand **why it works**.
+> **Understand the system. Test the assumptions. Follow the evidence.**
 
 <br>
 
@@ -50,8 +54,8 @@ I want to understand **why it works**.
 `Web Security`  
 `Security Research`  
 `Protocol Analysis`  
-`Offensive Security`  
-`Defensive Security`
+`Bug Bounty`  
+`Offensive & Defensive Security`
 
 </td>
 <td width="50%" valign="top">
@@ -62,7 +66,7 @@ I want to understand **why it works**.
 `Linux`  
 `Systems Programming`  
 `Networking`  
-`Performance`  
+`Performance Engineering`  
 `CLI Tooling`
 
 </td>
@@ -75,13 +79,23 @@ I want to understand **why it works**.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,python,linux,bash,git,github,docker,vscode&theme=dark" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=rust,python,linux,bash,git,github,docker,vscode&theme=dark" alt="DarkRX technology stack">
 
 </div>
 
 <br>
 
-## `$ current_project`
+## `$ security_research`
+
+I learn security through a mix of **labs, research, real-world testing, responsible vulnerability reporting, and building my own tooling**.
+
+I've participated in bug bounty through **YesWeHack**, alongside hands-on learning through **TryHackMe**. The goal isn't just finding something that breaks — it's understanding **why** it breaks and what the evidence actually proves.
+
+I carry the same mindset into software engineering: observe first, make fewer assumptions, and measure the result.
+
+<br>
+
+## `$ currently_building`
 
 <table>
 <tr>
@@ -91,16 +105,18 @@ I want to understand **why it works**.
 
 **Fast, bounded reconnaissance in Rust.**
 
-RXScan is a native reconnaissance scanner I'm building while exploring network discovery, protocols, service identification, performance, and security engineering.
+RXScan is a native reconnaissance and security assessment project I'm building while exploring networking, protocol intelligence, performance, and systems engineering.
 
-What started as a small experiment has become the project where I put a lot of what I'm learning into practice.
+It started as a small experiment and grew into a much larger engineering project built around a simple idea:
 
-`Rust` · `TCP/UDP` · `HTTP` · `TLS` · `DNS` · `Systems`
+> **More intelligence from the evidence already collected — not more traffic just because we can.**
+
+`Rust` · `TCP` · `UDP` · `HTTP` · `TLS` · `DNS` · `Networking`
 
 <br>
 
 <a href="https://github.com/DarkRX1/RXScan">
-  <img src="https://img.shields.io/badge/View_RXScan-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Explore_RXScan-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore RXScan">
 </a>
 
 </td>
@@ -111,29 +127,22 @@ What started as a small experiment has become the project where I put a lot of w
 
 ## `$ fieldnotes`
 
-Not everything I learn turns into a repository.
+Not everything I learn becomes a repository.
 
-I use my fieldnotes to document **labs, research, experiments, mistakes, discoveries, and things worth remembering**.
+I document things worth keeping from **security labs, research, experiments, development, mistakes, and discoveries**. Some become code, some become writeups, and some become videos.
 
-<div align="center">
-
-<a href="https://tryhackme.com/p/DarkRX01">
-  <img src="https://img.shields.io/badge/Labs-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white">
-</a>
-&nbsp;
-<a href="https://medium.com/@darkrx001">
-  <img src="https://img.shields.io/badge/Writeups-Medium-000000?style=flat-square&logo=medium&logoColor=white">
-</a>
-
-</div>
+The point is to leave a trail of what I learned — including what didn't work.
 
 <br>
 
-## `$ status`
+## `$ current_status`
 
 ```text
-[+] learning       security + systems
-[+] building       RXScan
-[+] environment    Linux
-[+] language       Rust
-[+] mindset        build -> test -> measure -> improve
+┌─ DarkRX
+│
+├─ focus      security + systems
+├─ building   RXScan
+├─ platform   Linux
+├─ learning   networking + protocols
+├─ language   Rust
+└─ process    build -> test -> measure -> improve
