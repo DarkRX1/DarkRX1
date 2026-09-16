@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/DarkRX.gif" width="320" alt="DarkRX animated logo">
+<img src="./assets/DarkRX.gif" width="340" alt="DarkRX">
+
+<br>
 
 # DarkRX
 
@@ -8,25 +10,35 @@
 
 *Building tools. Breaking assumptions. Learning relentlessly.*
 
+<br>
+
+<a href="https://tryhackme.com/p/DarkRX01">
+  <img src="https://img.shields.io/badge/TryHackMe-DarkRX01-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
+</a>
+<a href="https://medium.com/@darkrx001">
+  <img src="https://img.shields.io/badge/Medium-Fieldnotes-000000?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<a href="https://ko-fi.com/darkrx">
+  <img src="https://img.shields.io/badge/Ko--fi-DarkRX-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white">
+</a>
+
 </div>
-
----
-
-## About Me
-
-I'm **DarkRX**, a cybersecurity student and developer interested in understanding how systems actually work beneath the surface.
-
-Most of my time goes into **cybersecurity, networking, Linux, systems programming, and security tooling**. I learn best by taking ideas from theory, building them, testing them against real systems, and figuring out where my assumptions were wrong.
-
-I don't want to only know how to use tools. I want to understand what happens underneath them — the protocols, code, operating systems, networks, and engineering decisions that make everything work.
-
-I'm still learning, experimenting, and building.
-
-That's exactly where I want to be.
 
 <br>
 
-## What I'm Into
+## `$ whoami`
+
+I'm **DarkRX**, a cybersecurity student and developer interested in understanding what happens beneath the surface of the systems we use.
+
+I spend most of my time around **security, networking, Linux, and systems programming** — learning by building things, testing them against reality, and figuring out where my assumptions were wrong.
+
+I don't just want to know how to run a tool.
+
+I want to understand **why it works**.
+
+<br>
+
+## `$ interests`
 
 <table>
 <tr>
@@ -34,22 +46,24 @@ That's exactly where I want to be.
 
 ### Security
 
-Network Security  
-Web Security  
-Security Research  
-Protocol Analysis  
-Offensive & Defensive Security  
+`Network Security`  
+`Web Security`  
+`Security Research`  
+`Protocol Analysis`  
+`Offensive Security`  
+`Defensive Security`
 
 </td>
 <td width="50%" valign="top">
 
 ### Engineering
 
-Rust  
-Linux  
-Systems Programming  
-Networking  
-Performance & Tooling  
+`Rust`  
+`Linux`  
+`Systems Programming`  
+`Networking`  
+`Performance`  
+`CLI Tooling`
 
 </td>
 </tr>
@@ -57,47 +71,69 @@ Performance & Tooling
 
 <br>
 
-## Currently Building
+## `$ stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,python,linux,bash,git,github,docker,vscode&theme=dark" alt="Tech stack">
+
+</div>
+
+<br>
+
+## `$ current_project`
+
+<table>
+<tr>
+<td width="100%" valign="top">
 
 ### RXScan — Raw Excess Scan
 
 **Fast, bounded reconnaissance in Rust.**
 
-RXScan is a reconnaissance scanner I'm building while learning more about networking, protocols, performance, and security engineering.
+RXScan is a native reconnaissance scanner I'm building while exploring network discovery, protocols, service identification, performance, and security engineering.
 
-It started as a small experiment and has grown alongside what I've learned.
+What started as a small experiment has become the project where I put a lot of what I'm learning into practice.
 
-[**Explore RXScan →**](https://github.com/DarkRX1/RXScan)
-
-<br>
-
-## Fieldnotes
-
-I document things I learn from **labs, research, experiments, tooling, and building**.
-
-[**TryHackMe**](https://tryhackme.com/p/DarkRX01) ·
-[**Medium**](https://medium.com/@darkrx001) ·
-[**Ko-fi**](https://ko-fi.com/darkrx)
+`Rust` · `TCP/UDP` · `HTTP` · `TLS` · `DNS` · `Systems`
 
 <br>
 
-## Current Focus
+<a href="https://github.com/DarkRX1/RXScan">
+  <img src="https://img.shields.io/badge/View_RXScan-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `$ fieldnotes`
+
+Not everything I learn turns into a repository.
+
+I use my fieldnotes to document **labs, research, experiments, mistakes, discoveries, and things worth remembering**.
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/DarkRX01">
+  <img src="https://img.shields.io/badge/Labs-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white">
+</a>
+&nbsp;
+<a href="https://medium.com/@darkrx001">
+  <img src="https://img.shields.io/badge/Writeups-Medium-000000?style=flat-square&logo=medium&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+## `$ status`
 
 ```text
-Cybersecurity
-├── Network Security
-├── Web Security
-├── Protocols
-└── Security Research
-
-Systems
-├── Rust
-├── Linux
-├── Networking
-└── Performance
-
-Learning
-├── Build
-├── Test
-├── Break assumptions
-└── Improve
+[+] learning       security + systems
+[+] building       RXScan
+[+] environment    Linux
+[+] language       Rust
+[+] mindset        build -> test -> measure -> improve
