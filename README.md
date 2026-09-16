@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/DarkRX.gif" width="320" alt="DarkRX animated logo">
+
 # DarkRX
 
 ### Cybersecurity · Systems · Software
@@ -12,13 +14,15 @@
 
 ## About Me
 
-I'm **DarkRX**, a cybersecurity student and developer interested in understanding how systems behave beneath the surface.
+I'm **DarkRX**, a cybersecurity student and developer interested in understanding how systems actually work beneath the surface.
 
-Most of my time goes into **security, networking, Linux, systems programming, and building tools** that force me to learn things properly instead of only reading about them.
+Most of my time goes into **cybersecurity, networking, Linux, systems programming, and security tooling**. I learn best by taking ideas from theory, building them, testing them against real systems, and figuring out where my assumptions were wrong.
 
-I like taking ideas from theory, building them, testing them against real systems, finding where my assumptions were wrong, and improving from there.
+I don't want to only know how to use tools. I want to understand what happens underneath them — the protocols, code, operating systems, networks, and engineering decisions that make everything work.
 
-I'm still learning — and I intend to keep it that way.
+I'm still learning, experimenting, and building.
+
+That's exactly where I want to be.
 
 <br>
 
@@ -33,8 +37,8 @@ I'm still learning — and I intend to keep it that way.
 Network Security  
 Web Security  
 Security Research  
-Reconnaissance  
-Offensive & Defensive Concepts  
+Protocol Analysis  
+Offensive & Defensive Security  
 
 </td>
 <td width="50%" valign="top">
@@ -53,15 +57,15 @@ Performance & Tooling
 
 <br>
 
-## What I'm Building
+## Currently Building
 
 ### RXScan — Raw Excess Scan
 
-A native reconnaissance scanner I'm building in **Rust**.
+**Fast, bounded reconnaissance in Rust.**
 
-RXScan started as an experiment and has grown into a larger project where I'm exploring network discovery, protocol identification, evidence-driven analysis, performance, and systems engineering.
+RXScan is a reconnaissance scanner I'm building while learning more about networking, protocols, performance, and security engineering.
 
-> **Fast, bounded reconnaissance in Rust.**
+It started as a small experiment and has grown alongside what I've learned.
 
 [**Explore RXScan →**](https://github.com/DarkRX1/RXScan)
 
@@ -69,7 +73,7 @@ RXScan started as an experiment and has grown into a larger project where I'm ex
 
 ## Fieldnotes
 
-I document what I learn through labs, research, experiments, and building.
+I document things I learn from **labs, research, experiments, and building**.
 
 [**TryHackMe**](https://tryhackme.com/p/DarkRX01) ·
 [**Medium**](https://medium.com/@darkrx001) ·
@@ -81,7 +85,7 @@ I document what I learn through labs, research, experiments, and building.
 
 <div align="center">
 
-### Build it. Test it. Measure it.
+### Build it. Test it. Measure it. Improve it.
 
 `Security` · `Systems` · `Software` · `Always Learning`
 
